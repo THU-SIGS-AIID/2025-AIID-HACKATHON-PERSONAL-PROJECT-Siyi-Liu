@@ -1,0 +1,9 @@
+分支2.mp4 filter=lfs diff=lfs merge=lfs -text
+结局2.mp4 filter=lfs diff=lfs merge=lfs -text
+config.js filter=lfs diff=lfs merge=lfs -text
+主线2.mp4 filter=lfs diff=lfs merge=lfs -text
+分支1.mp4 filter=lfs diff=lfs merge=lfs -text
+结局1.mp4 filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+interactive.html filter=lfs diff=lfs merge=lfs -text
+主线1.mp4 filter=lfs diff=lfs merge=lfs -text
