@@ -12,7 +12,7 @@
 
 ## 🚀 **Live Demo URL / 实时演示 URL**
 
-`https://lsy77.zeabur.app/interactive.html`
+`[https://lsy77.zeabur.app/interactive.html](https://liusiyi777.zeabur.app/interactive.html)`
 
 ## 🎬故事结构 / Story Structure
 
