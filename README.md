@@ -12,28 +12,31 @@
 
 ## 🚀 **Live Demo URL / 实时演示 URL**
 
-`[https://lsy77.zeabur.app/interactive.html](https://liusiyi777.zeabur.app/interactive.html)`
+`https://lsy77.zeabur.app/interactive.html`
+由于本项目是在zeabur平台上部署的，在初次访问交互式电影时，可能出现卡顿现象，如遇上述情况，可点击右上角【重新开始】按钮，重新加载；
+若仍旧卡顿，您可通过该链接查看由我为您录制的其中一个交互式结局，以便了解交互式的视频内容和方式https://drive.google.com/file/d/1iAF3c7v7t4aZXADWxMfoOR31zWuZb9Td/view?usp=sharing
+
 
 ## 🎬故事结构 / Story Structure
 
-1. **故事开始** (主线1.mp4)
+1. **故事开始** (主线1.mp4)（https://drive.google.com/file/d/1Y-a0Cbk00ATyCYCtQSBFMNduafZZpuEG/view?usp=drive_link）
    - 选择1: 继续向左走 → 分支1
    - 选择2: 跟随雷朗，向右前进 → 分支2
 
 2. **分支发展**
-   - **分支1** (分支1.mp4): 心渊之路
+   - **分支1** (分支1.mp4): 心渊之路（https://drive.google.com/file/d/19cb2pOKSPLcyXwu0q92Yh7we5QGLYpGu/view?usp=sharing） 
      - 继续深入探索 → 主线2
    
-   - **分支2** (分支2.mp4): 祭坛之路
+   - **分支2** (分支2.mp4): 祭坛之路（https://drive.google.com/file/d/18E1ZWmnB2RrSvKQ59jPK99j9fvbI7KKR/view?usp=sharing）
      - 为了拯救朋友 → 主线2
 
 3. **高潮与结局**
-   - **主线2** (主线2.mp4): 故事高潮
+   - **主线2** (主线2.mp4): 故事高潮（https://drive.google.com/file/d/17SFwQ9C0PT_lmJuAg7F33GL9XTyrXPRw/view?usp=sharing）
      - 拒绝面对现实 → 结局1
      - 拥抱现实世界 → 结局2
    
-   - **结局1** (结局1.mp4): 永恒的梦境
-   - **结局2** (结局2.mp4): 救赎与重生
+   - **结局1** (结局1.mp4): 永恒的梦境（https://drive.google.com/file/d/1HylwYPRmt5-doDa9KU-OvKD5eXPU4dxu/view?usp=sharing）
+   - **结局2** (结局2.mp4): 救赎与重生（https://drive.google.com/file/d/1OsHCTzzxmUvXXtOiOCi4xXlXh9p3FwOM/view?usp=sharing）
 
 ## ✨ **Key Features / 主要特性**
 
