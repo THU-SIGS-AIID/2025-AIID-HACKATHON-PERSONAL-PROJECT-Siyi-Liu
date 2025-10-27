@@ -12,8 +12,8 @@
 
 ## 🚀 **Live Demo URL / 实时演示 URL**
 
-`https://lsy77.zeabur.app/interactive.html`
-由于本项目是在zeabur平台上部署的，在初次访问交互式电影时，可能出现卡顿现象，如遇上述情况，可点击右上角【重新开始】按钮，重新加载；
+`https://lsy77.zeabur.app/interactive.html`  
+由于本项目是在zeabur平台上部署的，在初次访问交互式电影时，可能出现卡顿现象，如遇上述情况，可点击右上角【重新开始】按钮，重新加载；  
 若仍旧卡顿，您可通过该链接查看由我为您录制的其中一个交互式结局，以便了解交互式的视频内容和方式https://drive.google.com/file/d/1iAF3c7v7t4aZXADWxMfoOR31zWuZb9Td/view?usp=sharing
 
 
